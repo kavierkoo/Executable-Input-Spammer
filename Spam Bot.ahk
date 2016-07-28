@@ -8,9 +8,11 @@ Press F3 to Exit
 )
 
 F1::spam()
+
 F2::
 MsgBox, Restart Spam Bot! 
 Reload
+
 F3::
 MsgBox, Exit Spam Bot! 
 exitapp
